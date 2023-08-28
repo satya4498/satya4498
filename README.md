@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyam Kumar
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
